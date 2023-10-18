@@ -1,0 +1,14 @@
+@media screen and (max-width:1000px) {
+    p{
+        font-size: .9rem;
+        line-height: 1.8rem;
+    }
+}
+
+@media screen and (max-width:825px) {
+    
+}
+
+@media screen and (max-width:640px) {
+    
+}
